@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/axaxaxa/code/vscode_workspace/json_tutotial/chap03/lept_json.h
+
+/home/axaxaxa/code/vscode_workspace/json_tutotial/chap03/test.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+lept_json.h
+/home/axaxaxa/code/vscode_workspace/json_tutotial/chap03/lept_json.h
+
